@@ -60,4 +60,8 @@ def self.find_by_name(name)
     student=self.new_from_db(row)
   end.first
 end
+
+def update
+  
+end
 end
